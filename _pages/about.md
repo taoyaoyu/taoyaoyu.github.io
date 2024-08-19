@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an assistant professor in the Intitute of Artificial Intelligence at Peking University. I am also a BoYa Young Scholar and a recipient of NSFC excellent young scholar award. Before joining Peking University, I was a staff engineer at Qualcomm Wireless R&D working on emerging wireless chips and a senior engineer at Oracle working on server CPU chips. I recieved Bachelor's, Master's, and Doctoral degrees in Electrical and Computer Engineering from Shanghai Jiao Tong University, Stanford University, and the University of Michigan Ann Arbor. My research interests focus on architecture and circuits design based on emerging post-Moore devices for artificial intelligence models and signal processing algorithms.
+
+I have published more than thirty papers in top-tier journals and conferences, including Nature Electronics, Nature Communications, JSSC, ISSCC, VLSI, MICRO, HPCA, etc. I have won the 2021 IEEE Global Communication Conference Best Paper Award, 2019 IEEE Symposium on VLSI Best Paper Nomination Award, Qualcomm QualStar Awards (2019, 2020, 2021), 2013 IEEE International Symposium on Circuits and Systems Best Paper Nomination Award, etc. I also holds multiple patents in United States and China.
 
 A data-driven personal website
 ======
