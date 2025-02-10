@@ -1,0 +1,15 @@
+---
+title: '南澳科学会议：物态调控学术研讨会暨2023年项目联合启动会'
+date: 2024-04-28
+permalink: /posts/post_3
+tags:
+  - moire supperlattice device
+  - optics
+---
+
+陶耀宇博士受邀参加南澳科学会议作项目汇报：基于莫尔超晶格光子学原型器件构建
+
+<p><a href="https://spse.bjtu.edu.cn/cms/item/2290.html">新闻链接</a></p>
+
+
+
