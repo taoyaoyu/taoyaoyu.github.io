@@ -1,0 +1,11 @@
+---
+title: 'One paper accepted at Nature Communications'
+date: 2025-01-20
+permalink: /posts/post_5
+tags:
+  - PUF
+  - memristor
+---
+
+One paper, featuring memristor-enabled fully on-chip physical unclonable function named as RePACK , is accepted by Nature Communications. Experimental results demonstrate the effectiveness of increasing enumeration complexity to 5.77 × 10^75 for a 128-column compute-in-memory core. We further implement and evaluate a RePACK computing system on a 40 nm resistive memory compute-in-memory chip. This work represents a step towards developing safe, robust, and efficient edge neural network accelerators. It potentially serves as the hardware infrastructure for edge devices in federated learning or other systems.
+
