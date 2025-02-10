@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2024-10-29
-venue: 'Advanced Materials'
+venue: 'Advanced Materials, 2401060'
 paperurl: 'https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202401060'
 citation: 'Jinxuan Bai, Dawei He, Bingjie Dang, Keqin Liu, Zhen Yang, Jiarong Wang, Xiaoxian Zhang*, Yongsheng Wang*, Yaoyu Tao*, Yuchao Yang*'
 ---
