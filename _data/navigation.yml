@@ -6,7 +6,7 @@
 
 main:
   - title: "新闻动态"
-    url: /year-archive/
+    url: /posts/
     
   - title: "成果发表"
     url: /publications/
