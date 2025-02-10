@@ -7,3 +7,5 @@ venue: "北京大学，元培学院"
 date: 2024-09-01
 location: "中国，北京"
 ---
+
+https://aiarchpku.github.io/2024Fall/
