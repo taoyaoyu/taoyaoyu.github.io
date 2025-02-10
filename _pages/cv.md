@@ -20,8 +20,8 @@ redirect_from:
 
 Academic and Industry experience
 ======
-*研究员、博雅青年学者，2022年7月 至 今
- Assistant Professor, 2022-07 to Now
+* 研究员、博雅青年学者，2022年7月 至 今
+* Assistant Professor, 2022-07 to Now
   *北京大学，人工智能研究院，中国，北京
    Peking University, Institute of Artificial Intelligence, Beijing, China
 *主任研究工程师，2019年2月 至 2022年6月
