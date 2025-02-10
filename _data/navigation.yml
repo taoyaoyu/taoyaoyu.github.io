@@ -10,17 +10,20 @@ main:
     
   - title: "论文发表"
     url: /publications/
-
+   
+  - title: "科研项目"
+    url: /portfolio/
+    
   - title: "学术报告"
     url: /talks/    
 
   - title: "教育教学"
     url: /teaching/    
+     
+  - title: "奖励荣誉"
+    url: /awards/
     
-  - title: "科研项目"
-    url: /portfolio/
-    
-  - title: "学术简历"
+  - title: "个人简历"
     url: /cv/
     
   - title: "学生培养"
