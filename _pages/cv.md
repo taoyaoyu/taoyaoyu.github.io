@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "个人简历"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering (ECE), University of Michigan Ann Arbor, 2022
+* M.S. in Electrical Engineering (EE), Stanford University, 2016
+* B.S. in Electrical and Computer Engineering (ECE), Shanghai Jiao Tong University, 2013
 
 Work experience
 ======
