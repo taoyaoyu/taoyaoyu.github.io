@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/paper_1
 excerpt: ''
 date: 2024-08-13
-venue: 'Nature Electronics volume 7, pages904–913'
+venue: 'Nature Electronics volume 7, Pages 904–913'
 paperurl: 'https://www.nature.com/articles/s41928-024-01228-7'
 citation: 'Wenshuo Yue, Teng Zhang, Zhaokun Jing, Kai Wu, Yuxiang Yang, Zhen Yang, Yongqin Wu, Weihai Bu, Kai Zheng, Jin Kang, Yibo Lin, Yaoyu Tao, Bonan Yan*, Ru Huang, Yuchao Yang*'
 ---
