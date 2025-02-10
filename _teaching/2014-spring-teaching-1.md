@@ -1,5 +1,5 @@
 ---
-title: "课程名称：智能硬件体系结构"
+title: "智能硬件体系结构"
 collection: teaching
 type: "主讲教师，本科生课程"
 permalink: 'https://aiarchpku.github.io/2024Fall/'
