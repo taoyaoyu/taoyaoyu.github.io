@@ -1,9 +1,13 @@
 ---
 layout: archive
-title: ""
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">论文发表也可访问Google Scholar链接：<a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 {% include base_path %}
 
@@ -29,10 +33,4 @@ author_profile: true
 {% endif %}
 
 
-Google学术主页
-======
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">具体论文发表也可访问： <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
