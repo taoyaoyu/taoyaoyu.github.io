@@ -1,16 +1,15 @@
 ---
 title: "LDPC post-processor architecture and method for low error floor conditions"
 collection: publications
-category: patent
-permalink: /publication/paper_9
+category: patents
+permalink: /publication/patent_1
 excerpt: ''
-date: 2019-05-29
-venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers, Volume 66, Issue 10'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/8725915'
-citation: 'Yaoyu Tao, Shuanghong Sun, Zhengya Zhang'
+date: 2017-10-17
+venue: 'US Patent 9,793,923'
+paperurl: 'https://patents.google.com/patent/US9793923B2/en'
+citation: 'Yaoyu Tao, Joyce Kwong'
 ---
 
-The error floor phenomenon, associated with iterative decoders, is one of the most significant limitations to the applications of low-density parity-check (LDPC) codes. A variety of techniques from code design to decoder implementation have been proposed to address the error floor problem, among which post-processors have shown to be both effective and implementation-friendly. In this paper, we take the inspiration from simulated annealing to generalize the post-processor design using three methods: quenching, extended heating, and focused heating, each of which targets a different error structure. The resulting post-processor is demonstrated to lower the error floors by two orders of magnitude for two structured code examples, a (2209, 1978) array LDPC code and a (1944, 1620) LDPC code used by the IEEE 802.11n standard. The post-processor can be integrated with a belief-propagation decoder with minimal overhead. The post-processor design is equally applicable to other structured LDPC codes.
-
+Post-processing circuitry for LDPC decoding includes check node processor for processing shifted LLR values, a hard decision decoder circuitry for receiving processed LLR information and performing parity checks on the processed LLR information. Post-processing control circuitry controls updating of LLR information in the check node processor. The check node processor, hard decision decoder, and control circuitry cooperate to identify check nodes with unsatisfied parity checks after an iteration cycle, identify neighborhood variable nodes that are connected with unsatisfied check nodes, identify satisfied check nodes which are connected to neighborhood variable nodes, and modify messages from neighborhood variable nodes to satisfied check nodes if needed to introduce perturbations to resolve decoding errors. Neighborhood identification circuitry determines which variable nodes are connected with unsatisfied check nodes, that have failed a parity check, and produces a signal indicating which variable nodes are connected to unsatisfied check nodes.
 
 
