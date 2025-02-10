@@ -8,5 +8,5 @@ date: 2025-02-10
 location: "中国，北京"
 ---
 
-https://aiarchpku.github.io/2025Spring/
+<p><a href="https://aiarchpku.github.io/2025Spring/">2025年春季课程网站链接</a></p>
 
