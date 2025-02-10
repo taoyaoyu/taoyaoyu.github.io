@@ -1,0 +1,12 @@
+---
+title: '学术报告：半导体芯片技术的演进与前沿趋势'
+date: 2024-06-21
+permalink: /posts/post_1
+tags:
+  - post-moore chip
+  - circuits design
+  - computer architecture
+---
+
+陶耀宇博士在北京大学信息工程学院做学术报告：半导体芯片技术的演进与前沿趋势路。
+
