@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "课程名称：智能硬件体系结构"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "主讲教师，本科生课程"
+permalink: 'https://aiarchpku.github.io/2024Fall/'
+venue: "北京大学，元培学院"
+date: 2024-09-01
+location: "中国，北京"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
