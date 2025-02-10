@@ -12,11 +12,11 @@ redirect_from:
 教育经历 Education
 ======
 * 美国密歇根大学安娜堡分校，电子与计算机工程（方向：计算机体系结构），博士
-  Ph.D in Electrical and Computer Engineering (ECE), University of Michigan Ann Arbor, 2022
-*美国斯坦福大学，电子工程（方向：电路设计），硕士
-  M.S. in Electrical Engineering (EE), Stanford University, 2016
-*中国上海交通大学，电子与计算机工程（方向：通信与信号处理），学士
-  B.S. in Electrical and Computer Engineering (ECE), Shanghai Jiao Tong University, 2013
+  * Ph.D in Electrical and Computer Engineering (ECE), University of Michigan Ann Arbor, 2022
+* 美国斯坦福大学，电子工程（方向：电路设计），硕士
+  * M.S. in Electrical Engineering (EE), Stanford University, 2016
+* 中国上海交通大学，电子与计算机工程（方向：通信与信号处理），学士
+  * B.S. in Electrical and Computer Engineering (ECE), Shanghai Jiao Tong University, 2013
 
 Academic and Industry experience
 ======
