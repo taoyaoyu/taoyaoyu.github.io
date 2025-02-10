@@ -7,6 +7,7 @@ excerpt: ''
 date: 2021-12-07
 venue: '2021 IEEE Global Communications Conference (GLOBECOM)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9685277/'
+slidesurl: 'https://github.com/taoyaoyu/Polar_SCL_C_ModuleBased'
 citation: 'Yaoyu Tao, Zhengya Zhang'
 ---
 
