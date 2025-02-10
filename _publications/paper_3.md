@@ -1,7 +1,7 @@
 ---
 title: "Fast and reconfigurable sort-in-memory system enabled by memristors"
 collection: publications
-category: preprint
+category: preprints
 permalink: /publication/paper_3
 excerpt: ''
 date: 2025-02-09
