@@ -2,7 +2,7 @@
 title: "Energy‐Efficient Online Training with In Situ Parallel Computing on Electrochemical Memory Arrays"
 collection: publications
 category: manuscripts
-permalink: 2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
 date: 2025-01-28
 venue: 'Advanced Intelligent Systems, 2401068'
