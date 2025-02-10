@@ -8,4 +8,4 @@ date: 2024-09-01
 location: "中国，北京"
 ---
 
-课程链接：https://aiarchpku.github.io/2024Fall/
+<p><a href="https://aiarchpku.github.io/2024Fall/">2024年秋季课程网站链接</a></p>
