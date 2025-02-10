@@ -10,7 +10,7 @@
 locale                   : "zh-CN"
 title                    : "陶耀宇"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "陶耀宇学术主页"
 description              : &description "personal description"
 url                      : https://taoyaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
