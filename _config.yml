@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "陶耀宇"
+title                    : "陶耀宇主页"
 title_separator          : "-"
-name                     : "学术主页"
+name                     : &name "name"
 description              : &description "personal description"
 url                      : https://taoyaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
