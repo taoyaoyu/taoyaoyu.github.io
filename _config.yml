@@ -76,13 +76,15 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   preprints:
-    title: 'Preprint Articles'
+    title: '预印本 Preprint Articles'
   books:
-    title: 'Books'
+    title: '书籍 Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: '期刊 Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: '会议 Conference Papers'
+  patents:
+    title: '专利 Patents'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
