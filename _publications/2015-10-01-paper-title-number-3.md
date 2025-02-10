@@ -2,7 +2,7 @@
 title: "Physical unclonable in-memory computing for simultaneous protecting private data and deep learning models"
 collection: publications
 category: manuscripts
-permalink: ''
+permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-01-25
 venue: 'Nature Communications volume 16, Article number: 1031'
