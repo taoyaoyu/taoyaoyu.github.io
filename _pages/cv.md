@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ redirect_from:
 * 中国上海交通大学，电子与计算机工程（方向：通信与信号处理），学士
   * B.S. in Electrical and Computer Engineering (ECE), Shanghai Jiao Tong University, 2013
 
-Academic and Industry experience
+工作经历 Work Experience
 ======
 * 研究员、博雅青年学者，2022年7月 至 今
   * Assistant Professor, 2022-07 to Now
