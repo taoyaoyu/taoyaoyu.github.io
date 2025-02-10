@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 2"
+title: "人工智能的硬件基石：从物理器件到计算架构"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "主讲教师，本科生课程"
+permalink: 'https://aiarchpku.github.io/2025Spring/'
+venue: "北京大学，元培学院"
+date: 2025-02-10
+location: "中国，北京"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
