@@ -7,6 +7,7 @@ excerpt: ''
 date: 2021-02-13
 venue: 'IEEE Journal of Solid-State Circuits, Volume 56, Issue 2'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9144240'
+slidesurl: 'https://github.com/taoyaoyu/Polar_SCL_C_ModuleBased'
 citation: 'Yaoyu Tao, Sung-Gun Cho, Zhengya Zhang'
 ---
 
