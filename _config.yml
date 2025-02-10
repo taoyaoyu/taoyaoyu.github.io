@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "学术主页"
+title                    : "陶耀宇"
 title_separator          : "-"
 name                     : &name "name"
 description              : &description "personal description"
