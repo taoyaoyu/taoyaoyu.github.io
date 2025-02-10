@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yaoyu Tao"
+  name             : "陶耀宇"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor @ Peking University"
+  bio              : "北京大学人工智能研究院"
   location         : "Beijng, China"
   employer         : "Peking University"
   uri              : # URL
