@@ -254,7 +254,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "https://taoyaoyu.github.io/publications/"
+      path: ""
       type: publications
     values:
       layout: single
