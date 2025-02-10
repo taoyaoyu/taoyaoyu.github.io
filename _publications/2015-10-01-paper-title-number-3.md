@@ -5,7 +5,7 @@ category: manuscripts
 permalink: ''
 excerpt: ''
 date: 2025-01-25
-venue: 'Nature Communications volume 16, Article number: 1031 (2025)'
+venue: 'Nature Communications volume 16, Article number: 1031'
 paperurl: 'https://www.nature.com/articles/s41467-025-56412-w'
 citation: 'Wenshuo Yue, Kai Wu, Zhiyuan Li, Juchen Zhou, Zeyu Wang, Teng Zhang, Yuxiang Yang, Lintao Ye, Yongqin Wu, Weihai Bu, Shaozhi Wang, Xiaodong He, Xiaobing Yan*, **Yaoyu Tao**, Bonan Yan*, Ru Huang & Yuchao Yang*'
 ---
