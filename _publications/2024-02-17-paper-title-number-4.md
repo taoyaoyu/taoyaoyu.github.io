@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: ''
+date: 2024-11-06
+venue: '2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10764516'
+citation: 'Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, Yuqi Li, Yaoyu Tao*, Yuchao Yang*'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The exponential growth of data exerts great pressure on hardware design for database systems. Memory-centric computing (MCC) architecture, which enable compute capabilities near or inside memory storage, demonstrate great potential in enhancing the efficiency of database operations with higher compute parallelism and reduced data movements. However, existing MCC architecture mainly focus on artificial intelligence (AI) computations and those designed for database applications can only run a limited number of standalone queries such as SORT or JOIN, lacking efficient support for increasingly diverse and complex database workloads. For example, realizing a commercial recommendation engine on database requires supporting workloads including but not limited to vector aggregation, convolution or N-hop neighborhoods computing, etc. In this work, we develop a memristor-enabled memory-centric instruction-set architecture (MeMCISA) aiming to efficiently accelerate versatile workloads in modern database systems. MeMCISA features scalable multi-bank memristor-based storage organization with near-memory circuitries and caches in banks. An out-of-order (OoO) scheduling scheme is designed for MeMCISA based on a vector instruction set with four types of instructions (bit-level, element-level, vector-level, and control-level), combining memristor-enabled in-memory computing and near-memory computing to efficiently run workloads with varying computational kernels and data sizes. MeMCISA can support parallel instruction executions across different memristor banks as well as different hardware modules within a memristor bank. Furthermore, we develop data dependency handling mechanisms to support vector dependency scenarios in MeMCISA that do not exist in conventional scalar-based instruction sets. A prototype MeMCISA is implemented based on a 40nm CMOS technology with necessary peripheral hardware including instruction buffer and instruction scheduler. To accurately study MeMCISA performance in real-world database systems, a software-hardware co-designed framework integrating reconfigurable MeMCISA prototype is created that can support end-to-end simulations for database workloads starting from raw software codes. Based on this framework, we evaluate MeMCISA performance with standalone database queries as well as complex database workloads from representative benchmarks including UniBench, neural collaborative filtering (NCF), and ResNet-18. Simulation results demonstrate that MeMCISA achieves up to 41.84 × ~ 1767.70 × in speed compared to general-purpose processors (CPUs/GPUs).
