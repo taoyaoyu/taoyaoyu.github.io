@@ -1,6 +1,6 @@
 ---
 title: "大规模、高能效存算一体架构芯片与系统"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "利用忆阻器等新兴后摩尔器件，构建存储与计算融合的新架构芯片与计算系统<br/><img src='/images/41565_2020_655_Fig1_HTML.png'>"
 collection: portfolio
 ---
 
