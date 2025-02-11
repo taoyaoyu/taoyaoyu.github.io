@@ -1,6 +1,6 @@
 ---
 title: "数据流芯片架构与电路系统"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "利用多级流水线、乱序执行、异构片上网络、AI辅助设计等架构技术，构建面向AI和信号处理的高效芯片与硬件系统"
 collection: portfolio
 ---
 
