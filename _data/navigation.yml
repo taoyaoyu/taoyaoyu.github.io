@@ -16,12 +16,6 @@ main:
 
   - title: "教育教学"
     url: /teaching/    
-     
-  - title: "奖励荣誉"
-    url: /talks/
     
   - title: "个人简历"
     url: /cv/
-    
-  - title: "学生培养"
-    url: /markdown/
