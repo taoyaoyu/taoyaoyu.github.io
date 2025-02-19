@@ -3,7 +3,7 @@ title: "Hardware Architecture for Intelligent Computing Systems"
 collection: teaching
 type: "Principal instructor, Bachelor's level course, fall semester"
 permalink: 'https://aiarchpku.github.io/2024Fall/'
-venue: "Peking University, Yuanpei College"
+venue: "Yuanpei College, Peking University"
 date: 2024-09-01
 location: "Beijing，China"
 ---
