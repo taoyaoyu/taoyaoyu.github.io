@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "陶耀宇"
+title                    : "Yaoyu Tao"
 title_separator          : "-"
 name                     : &name "name"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "taoyaoyu/taoyaoyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "陶耀宇"
+  name             : "Yaoyu Tao"
   pronouns         : # example: "she/her"  
-  bio              : "研究员、博雅青年学者"
-  location         : "中国，北京，海淀区"
-  employer         : "北京大学人工智能研究院"
+  bio              : "Boya Assistant Professor"
+  location         : "Peking University, Beijing, China"
+  employer         : "Institute of Artificial Intelligence"
   uri              : # URL
   email            : "taoyaoyutyy@pku.edu.cn" 
 
