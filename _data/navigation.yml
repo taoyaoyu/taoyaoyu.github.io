@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "新闻动态"
+  - title: "News"
     url: /year-archive/
     
-  - title: "成果发表"
+  - title: "Publications"
     url: /publications/
    
-  - title: "科研项目"
+  - title: "Research"
     url: /portfolio/   
 
-  - title: "教育教学"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "个人简历"
+  - title: "CV"
     url: /cv/
