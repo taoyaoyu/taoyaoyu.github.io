@@ -1,13 +1,13 @@
 ---
-title: "智能硬件体系结构"
+title: "Hardware Architecture for Intelligent Computing Systems"
 collection: teaching
-type: "主讲教师，本科生课程，秋季学期"
+type: "Principal instructor, Bachelor's level course, fall semester"
 permalink: 'https://aiarchpku.github.io/2024Fall/'
-venue: "北京大学, 元培学院"
+venue: "Peking University, Yuanpei College"
 date: 2024-09-01
-location: "中国，北京"
+location: "Beijing，China"
 ---
 
-<p><a href="https://aiarchpku.github.io/2024Fall/">2024年秋季课程网站链接</a></p>
+<p><a href="https://aiarchpku.github.io/2024Fall/">Course website</a></p>
 
-本课程是面向所有专业同学的选修课程，适合渴望深入学习智能硬件体系结构设计的同学。课程将重点介绍数字集成电路设计、芯片体系结构设计与软硬件协同加速等方面的基本知识。同时，本课程将培养学生具备初步的工程实践能力（简单算法的硬件实现、系统仿真、硬件调试等）。学生将自主设计并开发简单的智能计算功能模块，并最终搭建完整的原型验证芯片体系结构，初步掌握智能硬件体系结构的多种设计方法，并具备软硬件协同优化的基本技能和学术视野，为今后更深入的理论学习和研究实践奠定良好基础。
+This course is an elective open to students of all majors, designed for those eager to learn in-depth about intelligent hardware architecture design. The course will focus on fundamental knowledge in areas such as digital integrated circuit design, chip architecture design, and hardware-software co-acceleration. Additionally, this course aims to develop students' basic engineering practice skills, including hardware implementation of simple algorithms, system simulation, and hardware debugging. Students will design and develop simple intelligent computing function modules independently and ultimately build a complete prototype to validate the chip architecture. They will gain a preliminary understanding of various design methods for intelligent hardware architecture and acquire basic skills in hardware-software co-optimization, as well as broaden their academic perspective. This will lay a solid foundation for further theoretical studies and research practice.
