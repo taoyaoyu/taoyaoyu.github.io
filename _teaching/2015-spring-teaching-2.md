@@ -1,13 +1,13 @@
 ---
-title: "人工智能的硬件基石：从物理器件到计算架构"
+title: "Hardware Fundamentals for Artificial Intelligence: From Physical Devices to Chip Architecture"
 collection: teaching
-type: "主讲教师，本科生课程，春季学期"
+type: "Principal instructor, Bachelor's level course, spring semester"
 permalink: 'https://aiarchpku.github.io/2025Spring/'
-venue: "北京大学, 元培学院"
+venue: "Yuanpei College, Peking University"
 date: 2025-02-10
-location: "中国，北京"
+location: "Beijing, China"
 ---
 
-<p><a href="https://aiarchpku.github.io/2025Spring/">2025年春季课程网站链接</a></p>
+<p><a href="https://aiarchpku.github.io/2025Spring/">Course website</a></p>
 
-本课程是面向所有专业同学的选修课程，适合渴望了解智能硬件设计全栈技术的同学。课程将横跨物理器件、电路设计、芯片架构与软硬件协同设计等多层次基本知识；同时，本课程将培养学生具备初步的工程实践能力（简单算法的硬件实现、系统仿真、硬件调试等）。学生将初步掌握智能硬件设计的跨层次方法学，并具备智能硬件设计的基本技能和学术视野，为今后更深入的理论学习和研究实践奠定良好基础。
+This course is an elective open to students of all majors, designed for those eager to learn the full-stack technologies of intelligent hardware design. The course will cover a range of foundational knowledge across multiple levels, including physical devices, circuit design, chip architecture, and hardware-software co-design. Additionally, the course will help develop students' basic engineering practice skills, such as hardware implementation of simple algorithms, system simulation, and hardware debugging. Students will gain a foundational understanding of cross-layer methodologies in intelligent hardware design, along with essential skills and an academic perspective in the field, laying a solid foundation for further theoretical studies and research practice.
