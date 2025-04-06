@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/paper_3
 excerpt: ''
 date: 2025-02-09
-venue: 'Under review at Nature Electronics'
+venue: 'Accepted by Nature Electronics'
 paperurl: 'https://arxiv.org/abs/2309.10350'
 citation: 'Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yaoyu Tao*, Yuchao Yang*'
 ---
