@@ -1,5 +1,5 @@
 ---
-title: "Pipelined dataflow architecture and chip design"
+title: "数据流芯片架构"
 excerpt: "Constructing efficient chips and hardware systems for AI and signal processing using architectural techniques such as multi-stage pipelining, out-of-order execution, heterogeneous on-chip networks, and AI-assisted design."
 collection: portfolio
 ---
