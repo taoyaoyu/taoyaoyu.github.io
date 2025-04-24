@@ -1,5 +1,5 @@
 ---
-title: "Compute-in-memory architecture and chip design"
+title: "多物理域融合芯片架构"
 excerpt: "Constructing architecture, chips and computing systems that integrate storage and computation together using emerging post-Moore devices such as memristors, targeting artificial intelligence and communication algorithms."
 collection: portfolio
 ---
