@@ -9,23 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Electrical and Computer Engineering (ECE), Computer Architecture, University of Michigan Ann Arbor, 2022
-* M.S. in Electrical Engineering (EE), Integrated Circuits, Stanford University, 2016
-* B.S. in Electrical and Computer Engineering (ECE), Communication and Signal Processing, Shanghai Jiao Tong University, 2013
-
-Work Experience
-======
-* Boya Assistant Professor, 2022-07 to Now
-  * Peking University, Institute of Artificial Intelligence, Beijing, China
-* Staff Engineer, 2019-02 to 2022-06
-  * Qualcomm Wireless R&D, San Jose, USA
-* Senior Engineer, 2015-10 to 2017-08
-  * Oracle, VLSI Design Group, Santa Clara, USA
-* Research Internship, 2013-05 to 2013-09
-  * Texas Instruments, Kilby Lab, Dallas, USA
-
 教育经历
 ======
 * 密歇根大学安娜堡分校，美国，电子与计算机工程（方向：计算机体系结构），博士
@@ -42,3 +25,20 @@ Work Experience
   * 甲骨文公司，VLSI电路设计部，美国，圣克拉拉
 * 研究实习员，2013年5月 至 2013年9月
   * 德州仪器公司，Kilby实验室，美国，达拉斯
+
+Education
+======
+* Ph.D in Electrical and Computer Engineering (ECE), Computer Architecture, University of Michigan Ann Arbor, 2022
+* M.S. in Electrical Engineering (EE), Integrated Circuits, Stanford University, 2016
+* B.S. in Electrical and Computer Engineering (ECE), Communication and Signal Processing, Shanghai Jiao Tong University, 2013
+
+Work Experience
+======
+* Boya Assistant Professor, 2022-07 to Now
+  * Peking University, Institute of Artificial Intelligence, Beijing, China
+* Staff Engineer, 2019-02 to 2022-06
+  * Qualcomm Wireless R&D, San Jose, USA
+* Senior Engineer, 2015-10 to 2017-08
+  * Oracle, VLSI Design Group, Santa Clara, USA
+* Research Internship, 2013-05 to 2013-09
+  * Texas Instruments, Kilby Lab, Dallas, USA
