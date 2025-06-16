@@ -1,8 +1,1 @@
----
-title: "多物理域融合芯片架构"
-excerpt: "Constructing architecture, chips and computing systems that integrate storage and computation together using emerging post-Moore devices such as memristors, targeting artificial intelligence and communication algorithms."
-collection: portfolio
----
-Dr. Yaoyu Tao research projects include the design of several Neural Ordinary Differential Equation (Neural ODE) chips, Differentiable Neural Computer (DNC) chips (world-first development of a DNC on-chip network architecture, with performance metrics reaching internationally leading levels at the time), and other related technologies. Based on prior research, further exploration was conducted on kernel implementation suing compute-in-memory solutions based on post-Moore novel memristor devices (e.g. sort-in-memory), multi-kernel integrated compute-in-memory cores, compute-in-memory tensor instruction sets and compiler, and compute-in-memory system on chips (SoC). Additionally, new circuit designs were developed to address the non-ideal characteristics of post-Moore devices (such as non-binary error correction circuits). Relevant work have published in top international journals and conferences, including Nature Electronics, JSSC, MICRO/HPCA/VLSI, FPGA, IEDM, Advanced Functional Materials, Advanced Electronic Materials, and other papers. Furthermore, this research has led to several Chinese patents and has been applied in products through collaborations with industry companies.
-
-主持设计了多款神经常微分网络Neural ODE芯片、微分神经计算机Differentiable Neural Computer（DNC）芯片（国际上率先研制出DNC片上网络芯片架构，性能指标达到当时国际领先水平）等。在前期研究基础上，进一步探索了基于后摩尔新型忆阻器件的人工智能基本算子存算一体方案（排序算子存算一体化架构的性能指标达到国际领先水平）、多算子集成存算一体计算核、存算指令集与编译、存算一体AI片上系统SoC，同时针对后摩尔器件的非理想特性设计了多种新型电路（非二进制纠错、磨损均衡电路等）。相关工作显著提升了人工智能芯片系统的硬件效率，并发表Nature Electronics、集成电路最高期刊JSSC、芯片体系结构顶级会议MICRO/HPCA/VLSI、FPGA领域最高会议FPGA、IEDM、Advanced Functional Materials、Advanced Electronic Materials等十余篇国际高水平期刊与会议论文。同时，在该领域的工作也已产生多项中国发明专利，并与华为公司计算产品线合作推动存算一体产业化应用。
+<a href="">
