@@ -4,7 +4,7 @@ collection: manuscripts
 category: preprints
 permalink: /publication/paper_3
 excerpt: ''
-date: 2025-02-09
+date: 2025-06-25
 venue: 'Nature Electronics'
 paperurl: 'https://www.nature.com/articles/s41928-025-01405-2'
 citation: 'Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yaoyu Tao*, Yuchao Yang*'
