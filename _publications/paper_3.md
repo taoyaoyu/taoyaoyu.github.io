@@ -1,13 +1,13 @@
 ---
 title: "Fast and reconfigurable sort-in-memory system enabled by memristors"
-collection: publications
+collection: manuscripts
 category: preprints
 permalink: /publication/paper_3
 excerpt: ''
 date: 2025-02-09
-venue: 'Accepted by Nature Electronics'
-paperurl: 'https://arxiv.org/abs/2309.10350'
+venue: 'Nature Electronics'
+paperurl: 'https://www.nature.com/articles/s41928-025-01405-2'
 citation: 'Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yaoyu Tao*, Yuchao Yang*'
 ---
 
-Sorting is fundamental and ubiquitous in modern computing systems. Hardware sorting systems are built based on comparison operations with Von Neumann architecture, but their performance are limited by the bandwidth between memory and comparison units and the performance of complementary metal-oxide-semiconductor (CMOS) based circuitry. Sort-in-memory (SIM) based on emerging memristors is desired but not yet available due to comparison operations that are challenging to be implemented within memristive memory. Here we report fast and reconfigurable SIM system enabled by digit read (DR) on 1-transistor-1-resistor (1T1R) memristor arrays. We develop DR tree node skipping (TNS) that support variable data quantity and data types, and extend TNS with multi-bank, bit-slice and multi-level strategies to enable cross-array TNS (CA-TNS) for practical adoptions. Experimented on benchmark sorting datasets, our memristor-enabled SIM system presents up to 3.32x~7.70x speedup, 6.23x~183.5x energy efficiency improvement and 2.23x~7.43x area reduction compared with state-of-the-art sorting systems. We apply such SIM system for shortest path search with Dijkstra's algorithm and neural network inference with in-situ pruning, demonstrating the capability in solving practical sorting tasks and the compatibility in integrating with other compute-in-memory (CIM) schemes. The comparison-free TNS/CA-TNS SIM enabled by memristors pushes sorting into a new paradigm of sort-in-memory for next-generation sorting systems.
+Sorting is a fundamental task in modern computing systems. Hardware sorters are typically based on the von Neumann architecture, and their performance is limited by the data transfer bandwidth and CMOS memory. Sort-in-memory using memristors could help overcome these limitations, but current systems still rely on comparison operations so that sorting performance remains limited. Here we describe a fast and reconfigurable sort-in-memory system that uses digit reads of one-transistor–one-resistor memristor arrays. We develop digit-read tree node skipping, which supports various data quantities and data types. We extend this approach with the multi-bank, bit-slice and multi-level strategies for cross-array tree node skipping. We experimentally show that our comparison-free sort-in-memory system can improve throughput by 7.70x, energy efficiency by 160.4x and area efficiency by 32.46x compared with conventional sorting systems. To illustrate the potential of the approach to solve practical sorting tasks, as well as its compatibility with other compute-in-memory schemes, we apply it to Dijkstra’s shortest path search and neural network inference with in situ pruning.
